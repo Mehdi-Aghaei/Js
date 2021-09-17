@@ -1,1 +1,2 @@
 I am a sample text file
+I want to check more
